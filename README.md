@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <a href="https://taimoorkhan.com"><img src="https://img.shields.io/badge/PORTFOLIO-111317?style=flat-square&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" /></a>
+  <a href="https://taimoorkhan.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-111317?style=flat-square&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/taimoor-khan-aa4425206"><img src="https://img.shields.io/badge/LINKEDIN-111317?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:taimoorkn2221@gmail.com"><img src="https://img.shields.io/badge/EMAIL-111317?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
-  <a href="https://taimoorkhan.com/Taimoor%20Khan%20-%20Full-Stack%20Product%20Engineer.pdf"><img src="https://img.shields.io/badge/R%C3%89SUM%C3%89-111317?style=flat-square&amp;logo=readdotcv&amp;logoColor=white" alt="Résumé" /></a>
+  <a href="https://taimoorkhan.vercel.app/Taimoor%20Khan%20-%20Full-Stack%20Product%20Engineer.pdf"><img src="https://img.shields.io/badge/R%C3%89SUM%C3%89-111317?style=flat-square&amp;logo=readdotcv&amp;logoColor=white" alt="Résumé" /></a>
 </p>
 
 ```json
