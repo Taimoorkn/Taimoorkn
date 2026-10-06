@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title description">
+  <title id="title">Taimoor Khan — Full-Stack Product Engineer</title>
+  <desc id="description">A monochrome portfolio banner for Taimoor Khan, a full-stack product engineer based in Lahore, Pakistan.</desc>
+
+  <style>
+    .frame {
+      animation: dash 28s linear infinite;
+    }
+
+    .status-ring {
+      animation: pulse 2.4s ease-in-out infinite;
+      transform-origin: 72px 252px;
+    }
+
+    @keyframes dash {
+      to { stroke-dashoffset: -96; }
+    }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 0.28; transform: scale(0.8); }
+      50% { opacity: 0.8; transform: scale(1.35); }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      .frame,
+      .status-ring {
+        animation: none;
+      }
+    }
+  </style>
+
+  <rect width="1200" height="320" rx="18" fill="#0d1117" />
+
+  <g stroke="#ffffff" stroke-opacity="0.07">
+    <path d="M240 0v320" />
+    <path d="M480 0v320" />
+    <path d="M720 0v320" />
+    <path d="M960 0v320" />
+  </g>
+
+  <rect class="frame" x="1" y="1" width="1198" height="318" rx="17" fill="none" stroke="#ffffff" stroke-opacity="0.28" stroke-dasharray="8 8" />
+
+  <text x="60" y="65" fill="#a7aaad" font-family="Consolas, 'Courier New', monospace" font-size="17" font-weight="700" letter-spacing="3">// FULL-STACK PRODUCT ENGINEER</text>
+
+  <text x="54" y="170" fill="none" stroke="#ffffff" stroke-opacity="0.13" stroke-width="2" font-family="Arial, Helvetica, sans-serif" font-size="100" font-weight="700" letter-spacing="-3">TAIMOOR KHAN</text>
+  <text x="60" y="154" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700" letter-spacing="-2">TAIMOOR KHAN</text>
+
+  <text x="60" y="207" fill="#a7aaad" font-family="Arial, Helvetica, sans-serif" font-size="20">Product engineering across web, API, database, mobile, and infrastructure.</text>
+
+  <circle class="status-ring" cx="72" cy="252" r="11" fill="none" stroke="#ffffff" stroke-opacity="0.5" />
+  <circle cx="72" cy="252" r="4" fill="#ffffff" />
+  <text x="94" y="258" fill="#ffffff" font-family="Consolas, 'Courier New', monospace" font-size="15" font-weight="700" letter-spacing="2">BUILDING &amp; SHIPPING</text>
+
+  <text x="1140" y="258" fill="#a7aaad" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="15" font-weight="700" letter-spacing="2">LAHORE, PK</text>
+</svg>
