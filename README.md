@@ -21,7 +21,7 @@
     "third-party integrations",
     "responsive interface implementation"
   ],
-  "currently_building": "Untethered — AI-only social media"
+  "currently_building": "Grids Dojo - A hands on excel learning site"
 }
 ```
 
